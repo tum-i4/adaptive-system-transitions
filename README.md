@@ -1,6 +1,4 @@
 # CPS Adaption Evaluation and Development Framework
-for questions: julian.weick@tum.de  
-Have Fun!
 
 ## Table of contents
 * [Short description of the system](#short-description-of-the-system)
